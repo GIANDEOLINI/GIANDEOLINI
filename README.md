@@ -1,0 +1,3 @@
+-Ciao! Sono Gianmarco Todde
+-Ultimamente sto imparando: JavaScript
+-Conosco: Python, HTML5
